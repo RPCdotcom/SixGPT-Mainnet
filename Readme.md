@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/155f4f07-c894-4197-afd5-ba1028531fa0)
 
-Bu rehber, bir Fizz instance'ını Ubuntu sunucusunda yapılandırmak için gerekli kurulum adımlarını içerir. İçerisinde; Docker ve Docker Compose kurulumu, izinlerin ayarlanması, sixgpt dosyası oluşturulması ve Container'in çalıştırılması gibi adımlar yer almaktadır.
+Bu rehber, bir WEb miner'ını Ubuntu sunucusunda yapılandırmak için gerekli kurulum adımlarını içerir. İçerisinde; Docker ve Docker Compose kurulumu, izinlerin ayarlanması, sixgpt dosyası oluşturulması ve Container'in çalıştırılması gibi adımlar yer almaktadır.
 
 ## Server  : 
 - Contabo : https://bit.ly/contabourl 
