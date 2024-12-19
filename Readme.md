@@ -80,6 +80,12 @@ VANA_NETWORK=mainnet
 OLLAMA_API_URL=http://ollama:11434/api
 ```
 
+### Son Sürüm İmage Çekelim : 
+
+```bash
+docker pull sixgpt/miner:latest
+```
+
 ## 7. Minerı Başlat : 
 
 ```bash
