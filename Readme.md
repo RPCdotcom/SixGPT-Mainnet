@@ -1,4 +1,4 @@
-# SixGPT Setup Rehber
+# SixGPT Mainnet Setup Rehber
 
 ![image](https://github.com/user-attachments/assets/155f4f07-c894-4197-afd5-ba1028531fa0)
 
